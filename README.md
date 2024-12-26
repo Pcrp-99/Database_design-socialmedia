@@ -1,0 +1,1 @@
+This project is an assignment from the Techscoop Academy batch 2, which is a program to develop new generation to work in the field of data of G-able Public Company Limited. It is to simulate and design a social database in Oracle. This is a project done in June 2023.
